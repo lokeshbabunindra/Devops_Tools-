@@ -1,0 +1,2 @@
+<h1>Hello world from Loki 1</h1>
+<h1 style="background-color:DodgerBlue;">Colors</h1>
